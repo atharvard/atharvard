@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvard&label=Profile%20views&color=0e75b6&style=flat" alt="atharvard" /> </p>
 
-- 💬 Ask me about **C++, DevOps, MS-SQL**
+- 💬 Ask me about **C++, DevOps, AWS, MS-SQL**
 
 - 📫 How to reach me **atharvard06gmail.com**
 
